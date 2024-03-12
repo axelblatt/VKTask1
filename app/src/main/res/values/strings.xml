@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">VKTask1</string>
+    <string name="error_message">Ошибка подключения к серверу или отсутствие подключения к Интернету</string>
+    <string name="retry">Повторить попытку</string>
+    <string name="description">Описание</string>
+</resources>
